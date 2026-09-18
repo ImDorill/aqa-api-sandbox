@@ -1,0 +1,15 @@
+# Віртуальне оточення
+venv/
+.env
+
+# Кеш Python та pytest
+__pycache__/
+.pytest_cache/
+
+# Звіти та тимчасові результати
+allure-results/
+allure-report/
+
+# Налаштування редактора
+.vscode/
+.idea/
